@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is 
+Dewei Li is currently an assistant professor in China University of Mining and Technology, Beijing. He received the bachelor’s degree and master’s degree from Renmin University of China in 2012 and 2015 respectively, and the Ph.D. degree from University of Chinese Academy of Sciences. His research interests include machine learning, metric learning and optimization.
 
-A data-driven personal website
+Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My current research interest
 
 
 
