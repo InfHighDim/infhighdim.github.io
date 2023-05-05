@@ -5,13 +5,5 @@ permalink: /publications/
 author_profile: true
 ---
 
-# 2022
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## 2022
+* Tang J, Li D, Tian Y. Image classification with multi-view multi-instance metric learning[J]. Expert Systems with Applications, 2022, 189: 116117.([pdf](http://infhighdim.github.io/files/Image_classification_with_multi-view_multi-instance_metric_learning.pdf))
