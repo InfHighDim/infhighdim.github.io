@@ -8,4 +8,4 @@ venue:
 paperurl: 
 citation: 
 ---
-Image classification with multi-view multi-instance metric learning([pdf](http://infhighdim.github.io/files/Image_classification_with_multi-view_multi-instance_metric_learning.pdf))
+Jingjing Tang, Dewei Li, Yingjie Tian, Image classification with multi-view multi-instance metric learning, Expert Systems With Applications, 2022, 189, 116117.([pdf](http://infhighdim.github.io/files/Image_classification_with_multi-view_multi-instance_metric_learning.pdf))
