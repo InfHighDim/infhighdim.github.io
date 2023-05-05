@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dewei Li / InfHighDim"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Dewei Li"
 description              : &description "personal description"
