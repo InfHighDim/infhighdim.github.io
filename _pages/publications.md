@@ -7,6 +7,7 @@ author_profile: true
 
 ## 2022 and before
 * Tang J, Li D, Tian Y. Image classification with multi-view multi-instance metric learning[J]. Expert Systems with Applications, 2022, 189: 116117.([pdf](http://infhighdim.github.io/files/Image_classification_with_multi-view_multi-instance_metric_learning.pdf))
+<img src="https://infhighdim.github.io/images/MVMIML.png" class="floatpic" width="531" height="247">
 * Ma Y, Zhang Q, Li D, et al. Linex support vector machine for large-scale classification[J]. IEEE Access, 2019, 7: 70319-70331.([pdf](http://infhighdim.github.io/files/LINEX_Support_Vector_Machine_for_Large-Scale_Classification.pdf))
 * Li D, Tian Y. Improved least squares support vector machine based on metric learning[J]. Neural Computing and Applications, 2018, 30: 2205-2215.([pdf](http://infhighdim.github.io/files/Improved_least_squares_support_vector_machine_based_on_metric_learning.pdf))
 * Tang J, Tian Y, Liu X, Li D. Improved multi-view privileged support vector machine[J]. Neural Networks, 2018, 106: 96-109.
