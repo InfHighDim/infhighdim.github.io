@@ -12,16 +12,18 @@ My name is Dewei Li. I was born in April 1991. My hometown is Lingbi County, Anh
 
 Research Interests
 ======
-My current research interest includes machine learning, optimization, metric learning, and contrastive learning.
+My current research interests focus on machine learning ad optimization, including metric learning, contrastive learning.
 * **Metric learning**: The topic aims to learn a transformation to map the original data into a new space, in which the distance between similar samples become smaller and that of dissimilar samples become larger.
 
 <img src="https://infhighdim.github.io/images/metric_learn_concept.png" class="floatpic" width="520" height="155">
 
-&emsp;&emsp;(1) **Traditional Metric Learning**
+&emsp;&emsp;(1) **Traditional Metric Learning**: Learning a semi-definite matrix $M$ to redefine the distance between any two samples using
+ Generalized Mahalanobis Distance $d(x_i, x_j) = \sqrt{(x_i - x_j)^\top M(x_i - x_j)}$.
+ 
+&emsp;&emsp;(2) **Deep Metric Learning**: Learning a nonliear mapping $f(x)$ by a deep neural networks and compute distance by $d(x_i, x_j) = \sqrt{(f(x_i) - f(x_j))^\top (f(x_i) - f(x_j))}$
 
-&emsp;&emsp;(2) **Deep Metric Learning**
-
-* **Contrastive Learning**
+* **Contrastive Learning**: It aims to deal with self-supervised task, using metric learning and deep learning methods.
+<img src="https://infhighdim.github.io/images/contrastive_concept.png" class="floatpic" width="595" height="370">
 
 
 
