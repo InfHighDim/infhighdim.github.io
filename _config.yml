@@ -84,12 +84,11 @@ author:
   avatar           : "lidewei.png"
   bio              : "A miner in machine learning."
   location         : "Beijing, China"
-  employer         :
+  employer         : 
   pubmed           : 
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  #email            : "ldw@cumtb.edu.cn"
-  E-mail            : "ldw@cumtb.edu.cn"
-  researchgate     : #"https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "ldw@cumtb.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Dewei-Li"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "https://github.com/InfHighDim"
   google_plus      :
   keybase          :
   instagram        :
