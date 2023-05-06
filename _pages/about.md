@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dewei Li is currently an assistant professor in China University of Mining and Technology, Beijing. He received the bachelor’s degree and master’s degree from Renmin University of China in 2012 and 2015 respectively, and the Ph.D. degree from University of Chinese Academy of Sciences. His research interests include machine learning, metric learning and optimization.
+My name is Dewei Li. I was born in April 1991. My hometown is Lingbi County, Anhui Province. I have received the bachelor’s degree and master’s degree from Renmin University of China in 2012 and 2015 respectively, and the Ph.D. degree from University of Chinese Academy of Sciences in 2018. I'm currently an assistant professor in China University of Mining and Technology, Beijing. My research interests include machine learning, metric learning and optimization.
 
 Research Interests
 ======
