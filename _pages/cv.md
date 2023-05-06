@@ -11,30 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in math, Remin University of China, 2012
+* M.S. in math, Remin University of China, 2015
+* Ph.D in math, University of Chinese Academy of Sciences, 2018. Research Interests: machine learning and optimization.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* From Sep. 2018 to July 2021: Huwei
+* From Sep. 2018 to April 2023: Tencent
+* From April 2023: China University of Mining and Technology, Beijing
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Pytorch
+* Matlab
 
 Publications
 ======
@@ -56,4 +48,3 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
