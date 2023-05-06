@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in math, Remin University of China, 2012
-* M.S. in math, Remin University of China, 2015
+* B.S. in math, Renmin University of China, 2012.
+* M.S. in math, Renmin University of China, 2015.
 * Ph.D in math, University of Chinese Academy of Sciences, 2018. Research Interests: machine learning and optimization.
 
 Work experience
