@@ -14,11 +14,14 @@ Research Interests
 ======
 My current research interest includes machine learning, optimization, metric learning, and contrastive learning.
 * **Metric learning**: The topic aims to learn a transformation to map the original data into a new space, in which the distance between similar samples become smaller and that of dissimilar samples become larger.
-<img src="https://infhighdim.github.io/images/metric_learn_concept.png" class="floatpic" width="155" height="522">
-  * **Traditional metric learning**:
-  * **Deep Metric learning**:
 
-* **Contrastive learning**:
+<img src="https://infhighdim.github.io/images/metric_learn_concept.png" class="floatpic" width="520" height="155">
+
+&emsp;&emsp;(1) **Traditional metric learning**
+
+&emsp;&emsp;(2) **Deep Metric learning**
+
+* **Contrastive learning**
 
 
 
