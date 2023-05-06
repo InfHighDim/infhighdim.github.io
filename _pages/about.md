@@ -12,7 +12,11 @@ Dewei Li is currently an assistant professor in China University of Mining and T
 
 Research Interests
 ======
-My current research interest includes machine learning, metric learning and optimization.
+My current research interest includes machine learning, optimization, metric learning, and contrastive learning.
+* Metric learning:
+  ** Traditional metric learning:
+  ** Deep Metric learning:
+* Contrastive learning:
 
 
 
