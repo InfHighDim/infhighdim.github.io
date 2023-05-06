@@ -17,11 +17,11 @@ My current research interest includes machine learning, optimization, metric lea
 
 <img src="https://infhighdim.github.io/images/metric_learn_concept.png" class="floatpic" width="520" height="155">
 
-&emsp;&emsp;(1) **Traditional metric learning**
+&emsp;&emsp;(1) **Traditional Metric Learning**
 
-&emsp;&emsp;(2) **Deep Metric learning**
+&emsp;&emsp;(2) **Deep Metric Learning**
 
-* **Contrastive learning**
+* **Contrastive Learning**
 
 
 
