@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Dewei Li. I was born in April 1991. My hometown is Lingbi County, Anhui Province. I have received the bachelor’s degree and master’s degree from Renmin University of China in 2012 and 2015 respectively, and the Ph.D. degree from University of Chinese Academy of Sciences in 2018. I'm currently an assistant professor in China University of Mining and Technology, Beijing. My research interests include machine learning, metric learning and optimization.
+My name is Dewei Li. I was born in April 1991 and my hometown is Lingbi County, Anhui Province. I have received the bachelor’s degree and master’s degree from Renmin University of China in 2012 and 2015 respectively, and the Ph.D. degree from University of Chinese Academy of Sciences in 2018. I have worked as Senior Engineer in Huawei and Tencent. I'm currently an assistant professor in China University of Mining and Technology, Beijing. My E-mail is ldw@cumtb.edu.cn.
 
 Research Interests
 ======
-My current research interests focus on machine learning ad optimization, including metric learning, contrastive learning.
+My current research interests focus on machine learning and optimization, including metric learning, contrastive learning.
 * **Metric learning**: The topic aims to learn a transformation to map the original data into a new space, in which the distance between similar samples become smaller and that of dissimilar samples become larger.
 
 <img src="https://infhighdim.github.io/images/metric_learn_concept.png" class="floatpic" width="520" height="155">
