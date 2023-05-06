@@ -13,13 +13,13 @@ My name is Dewei Li. I was born in April 1991. My hometown is Lingbi County, Anh
 Research Interests
 ======
 My current research interest includes machine learning, optimization, metric learning, and contrastive learning.
-* **Metric learning**:
+* **Metric learning**: The topic aims to learn a transformation to map the original data into a new space, in which the distance between similar samples become smaller and that of dissimilar samples become larger.
+<img src="https://infhighdim.github.io/images/metric_learn_concept.png" class="floatpic" width="155" height="522">
   * **Traditional metric learning**:
   * **Deep Metric learning**:
 
 * **Contrastive learning**:
 
-<!--img src="https://infhighdim.github.io/images/lidewei.png" class="floatpic" width="360" height="480"-->
 
 
 
