@@ -15,8 +15,10 @@ Research Interests
 My current research interest includes machine learning, optimization, metric learning, and contrastive learning.
 * Metric learning:
 <!--img src="https://infhighdim.github.io/images/lidewei.png" class="floatpic" width="360" height="480"-->
-  ** Traditional metric learning:
-  ** Deep Metric learning:
+&emsp; &emsp; (1) Traditional metric learning:
+
+&emsp; &emsp; (2) Deep Metric learning:
+
 * Contrastive learning:
 
 
