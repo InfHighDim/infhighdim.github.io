@@ -1,8 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
+title: "Metric_demo"
+permalink: /metric_demo/index.html
 ---
 
 demo
