@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * From Sep. 2018 to July 2021: Huwei
-* From Sep. 2018 to April 2023: Tencent
+* From July 2021 to April 2023: Tencent
 * From April 2023: China University of Mining and Technology, Beijing
 
   
