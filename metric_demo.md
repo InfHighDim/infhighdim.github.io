@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Metric_demo"
-permalink: /metric_demo/index.html
+permalink: /metric_demo/
 ---
 
 demo
