@@ -17,30 +17,28 @@ Education
 
 Work experience
 ======
-* From Sep. 2018 to July 2021: Huwei
-* From July 2021 to April 2023: Tencent
+* From Sep. 2018 to April 2023: enterprise
 * From April 2023: China University of Mining and Technology, Beijing
 
   
 Skills
 ======
-* Python
-* Pytorch
+* Python、Pytorch、Tensorflow
 * Matlab
 
-Publications
+--Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+--Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+--Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
@@ -48,3 +46,4 @@ Teaching
   
 Service and leadership
 ======
+* Reviewer for Knowledge-Based Systems, Journal of Supercomputing.
