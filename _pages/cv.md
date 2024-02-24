@@ -17,8 +17,7 @@ Education
 
 Work experience
 ======
-* From Sep. 2018 to April 2023: enterprise
-* From April 2023: China University of Mining and Technology, Beijing
+* From Sep. 2018 to April 2024: enterprise
 
   
 Skills
