@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Dewei Li. I was born in April 1991 and my hometown is Lingbi County, Anhui Province. I have received the bachelor’s degree and master’s degree from Renmin University of China in 2012 and 2015 respectively, and the Ph.D. degree from University of Chinese Academy of Sciences in 2018. I have worked as Senior Engineer in Huawei and Tencent. I'm currently an assistant professor in China University of Mining and Technology, Beijing. My E-mail is ldw@cumtb.edu.cn.
+My name is Dewei Li. I was born in April 1991 and my hometown is Lingbi County, Anhui Province. I have received the bachelor’s degree and master’s degree from Renmin University of China in 2012 and 2015 respectively, and the Ph.D. degree from University of Chinese Academy of Sciences in 2018. I have worked as Senior Engineer in Huawei and Tencent. My E-mail is lidewei06@163.com.
 
 Research Interests
 ======
